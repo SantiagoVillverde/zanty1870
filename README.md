@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zanty1870
+- 👀 I’m interested in Python and IA
+- 🌱 I’m currently learning Python

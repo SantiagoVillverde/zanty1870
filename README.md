@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @zanty1870
-- 👀 I’m interested in Python and IA
-- 🌱 I’m currently learning Python
+- 👋 Hola, me llamo Santiago Villaverde
+- 👀 Estoy interesado en el desarrollo backend, Javascript, Cloud Computing (AWS) y IA
+- 🌱 Actualmente estoy estudiando: desarrollo backend, Javascript, Cloud Computing (AWS), react y bases de datos SQL y no SQL
